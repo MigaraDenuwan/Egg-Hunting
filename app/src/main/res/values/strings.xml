@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Egg Hunting</string>
+    <string name="helpText">When the game loads, you\'ll see the start screen with a "Play" button to begin.Upon clicking "Play", you\'ll enter the game environment.Basket will be displayed at the bottom of the screen and move randomly every time.Eggs will drop by the flying bird and it falling from the top of the screen.Touch the bird when it fly exactly above the basket and catch the falling eggs.
+        Each egg successfully caught will increase your score.</string>
 </resources>
